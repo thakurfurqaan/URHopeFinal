@@ -42,8 +42,8 @@ Access the application on your local server.
 - Change in layout of initiatives table
 - Registration Page
   - Form 
-    - Separate for Volunteers and NGOs
-    - Addition of more fields
+    - Branch Table Responsive design
+    - Move branch table to profile page
 - Profile Page
   - Edit Profile
   - Display Profile
