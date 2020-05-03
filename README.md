@@ -35,9 +35,9 @@ Access the application on your local server.
 
 
 
-## URHope Front End 
+# URHope Front End 
 
-# Pending Tasks  
+### Pending Tasks  
 
 - Change in layout of initiatives table
 - Registration Page
@@ -51,7 +51,7 @@ Access the application on your local server.
 - Code Optimisation and Organisation
 
 
-# Tasks Completed
+### Tasks Completed
 - Overall Website
   - Logo
   - Make phone numbers dialable
@@ -83,7 +83,7 @@ Access the application on your local server.
 - Find Relief Anywhere Page
   - 50% of Homepage
 
-# Task Completion Timeline
+### Task Completion Timeline
 
 29/4/20
 - Need Help and Initivatives Section
