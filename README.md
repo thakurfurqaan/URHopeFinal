@@ -121,6 +121,13 @@ Access the application on your local server.
 - Find Relief Anywhere Page Created
 - Navbar Font Weight Increment
 
+3/5/20
+- Registration Form created for NGO and Volunteers
+- Modified Navbar
+- Modified Homepage
+- New find_relief_pincode_page.html page created
+
+
 
 
 
